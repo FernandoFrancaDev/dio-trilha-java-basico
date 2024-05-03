@@ -1,4 +1,4 @@
-public class App {
+public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
       // estudartipos primitivos
       // estudar a classe String que reprenta texto na aplicação
@@ -14,9 +14,7 @@ public class App {
 
       System.out.println(numero);
 
-     final double VALOR_DE_PI = 3.14;
-
-      
+     final double VALOR_DE_PI = 3.14;      
 
     }
 }
