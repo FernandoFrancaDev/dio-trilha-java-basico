@@ -19,7 +19,7 @@ public class TryCatchPesoAltura {
 
     System.out.println("Olá! " + nome);
     System.out.println("Você pesa " + peso);
-    System.out.println("o seu peso é de: " + peso);
+    System.out.println("o seu peso é de: " + altura);
     }
     catch(InputMismatchException e){
         System.out.println("Os campos idade e altura precisam ser numéricos");
